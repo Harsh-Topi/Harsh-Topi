@@ -6,7 +6,9 @@ I'm **Harsh**, a student at the University of Guelph and an aspiring Software De
 [![Linkedin Badge](https://img.shields.io/badge/-htopiwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htopiwala/)](https://www.linkedin.com/in/htopiwala/)
 [![Gmail Badge](https://img.shields.io/badge/-htopiw@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:htopiw@gmail.com)](mailto:htopiw@gmail.com)
 
+&nbsp;
 
+## :computer: Technologies
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java) ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Swift](https://img.shields.io/badge/-Swift-336791?style=flat-square&logo=swift)
 
@@ -17,10 +19,10 @@ I'm **Harsh**, a student at the University of Guelph and an aspiring Software De
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
+&nbsp;
 
 
-
-### Projects
+## :clipboard: Projects
 
 | Project | Description |  Technologies |
 | --- | --- |  --- |
