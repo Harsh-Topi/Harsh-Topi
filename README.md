@@ -1,4 +1,4 @@
-# :wave: Hello. Thanks for stopping by! 
+# :wave: Hello.
 
 I'm **Harsh**, a student at the University of Guelph and an aspiring Software Developer. I have experience working in **Web and Mobile development** from the projects I'm working on, however, I **always have enthusiasm towards learning new things**, as I continue on my journey to find my footing in the broad field of Software Development. 
 
