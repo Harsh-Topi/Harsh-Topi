@@ -1,6 +1,6 @@
 # :wave: Hello.
 
-I'm **Harsh**, a student at the University of Guelph and an aspiring Software Developer. 
+I'm **Harsh**, a student at the University of Guelph studying Computer Science. 
 
 #### Currently open to all opportunities. Contact me!
 [![Linkedin Badge](https://img.shields.io/badge/-htopiwala-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/htopiwala/)](https://www.linkedin.com/in/htopiwala/)
